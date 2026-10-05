@@ -1,8 +1,8 @@
 ### Hi, I'm Aaron
 
-I am a software engineer in Bangkok. I have shipped software since 2007, mostly with React, TypeScript, Phoenix, and Elixir. I care about the small things that decide how an app feels: components, error states, and microcopy.
+I am a software engineer. I have shipped software since 2007, mostly with React, TypeScript, Phoenix, and Elixir. I care about the small things that decide how an app feels: components, error states, and microcopy.
 
-I run [Seriously Serious](https://seriouslyseriousllc.com), a small software and games company. I also build product software for AI-first startups, currently in fund administration and hotel operations. Before that, I shipped with teams at Nike, Genentech, Novartis, Amgen, Johnson & Johnson, and McCormick.
+I run [Seriously Serious](https://seriouslyseriousllc.com), a small software and games company.
 
 #### What I make
 

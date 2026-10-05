@@ -17,7 +17,6 @@ I run [Seriously Serious](https://seriouslyseriousllc.com), a small software and
 - [storybook-addon-apollo-client](https://github.com/lifeiscontent/storybook-addon-apollo-client): mock Apollo Client queries in Storybook.
 - [storybook-addon-next-router](https://github.com/lifeiscontent/storybook-addon-next-router): use the Next.js router in Storybook.
 - [live_style](https://github.com/lifeiscontent/live_style): atomic CSS-in-Elixir for Phoenix LiveView, inspired by StyleX.
-- [crap4js](https://github.com/lifeiscontent/crap4js) and [mutate4js](https://github.com/lifeiscontent/mutate4js): CRAP scores and mutation testing for JavaScript and TypeScript.
 
 I also send fixes upstream. Recent ones are in [DEC64](https://github.com/douglascrockford/DEC64/pulls?q=is%3Apr+author%3Alifeiscontent), [Misty](https://github.com/douglascrockford/Misty/pulls?q=is%3Apr+author%3Alifeiscontent), and [Vitest](https://github.com/vitest-dev/vitest/pulls?q=is%3Apr+author%3Alifeiscontent). Over the years I have also worked on Storybook, Ash, Redux, React on Rails, AngularJS, and Backbone.
 
